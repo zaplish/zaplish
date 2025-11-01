@@ -1,12 +1,19 @@
 {
   "name": "zaplish/zaplish",
-  "description": "TODO Zaplish CMS – Laravel project skeleton.",
+  "description": "Zaplish CMS Starter Project – a ready-to-use Laravel application powered by Zaplish Core.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Stephan Wagner",
+      "email": "stephan.wagner@bytesandstripes.com"
+    }
+  ],
   "keywords": [
     "cms",
     "laravel",
     "content-management",
-    "zap",
-    "publish"
+    "publish",
+    "zaplish"
   ],
   "type": "project",
   "license": "proprietary",
