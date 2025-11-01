@@ -66,7 +66,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => env('AUTH_MODEL', Zaplish\Admin\Models\User::class),
+            'model' => env('AUTH_MODEL', Zaplish\Core\Models\User::class),
         ],
 
         // 'users' => [

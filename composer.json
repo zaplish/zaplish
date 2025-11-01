@@ -1,4 +1,5 @@
 {
+  "$schema": "https://getcomposer.org/schema.json",
   "name": "zaplish/zaplish",
   "description": "Zaplish CMS Starter Project – a ready-to-use Laravel application powered by Zaplish Core.",
   "version": "0.0.1",
