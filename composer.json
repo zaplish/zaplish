@@ -46,6 +46,12 @@
     ],
     "post-autoload-dump": [
       "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump"
+    ],
+    "post-install-cmd": [
+      "@php artisan zaplish:assets:link --build --force"
+    ],
+    "post-update-cmd": [
+      "@php artisan zaplish:assets:link --build --force"
     ]
   },
   "minimum-stability": "dev",
