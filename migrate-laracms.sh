@@ -4,7 +4,7 @@ GREEN="\033[1;32m"
 RED="\033[1;31m"
 RESET="\033[0m"
 
-file=$(ls database/migrations/*_create_laracms_tables.php 2>/dev/null)
+file=$(ls database/migrations/*_create_zaplish_tables.php 2>/dev/null)
 
 if [ ! -f "$file" ]; then
   echo -e "${RED}✖ Migration file not found.${RESET}"

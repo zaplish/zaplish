@@ -1,5 +1,6 @@
 #zaplish
-/public/vendor
+/public/vendor/zaplish
+/public/themes
 
 # laravel
 *.log

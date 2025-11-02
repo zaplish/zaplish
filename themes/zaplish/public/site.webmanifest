@@ -1,13 +1,13 @@
 {
-  "name": "laraCMS",
+  "name": "Zaplish",
   "icons": [
     {
-      "src": "/themes/laracms/img/favicon-app-192.png",
+      "src": "/themes/zaplish/images/favicon-app-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/themes/laracms/img/favicon-app.png",
+      "src": "/themes/zaplish/images/favicon-app.png",
       "sizes": "512x512",
       "type": "image/png"
     }
